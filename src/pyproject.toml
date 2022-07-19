@@ -6,7 +6,7 @@ authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-numpy = "^1.18.2"
+numpy = "^1.22.0"
 pandas = "^1.0.3"
 librosa = "^0.7.2"
 matplotlib = "^3.2.1"
